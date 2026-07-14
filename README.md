@@ -34,5 +34,5 @@ I'm a passionate Software Developer and Designer specializing in building intera
 </p>
 
 ### 📫 Let's Connect!
-- **Discord:** [Your Discord Tag]
+- **Discord:** [ GBD ]
 - **Email:** [Your Email Address]
